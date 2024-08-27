@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Membuat Aplikasi Catatan dengan SQLite</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="rv_notes"> notes</string>
+
+</resources>
